@@ -52,7 +52,7 @@ export default function App() {
   const stopRef = useRef(false);
   const scrollRef = useRef(null);
 
-  // ⚙️ SETTINGS
+ 
   const [dot, setDot] = useState(300);
   const [dash, setDash] = useState(900);
   const [gap, setGap] = useState(300);
@@ -61,7 +61,7 @@ export default function App() {
 
   const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
-  // 🔦 INIT FLASH
+  
   const initFlash = async () => {
     if (streamRef.current) return;
 
@@ -83,7 +83,7 @@ export default function App() {
     } catch {}
   };
 
-  // 🔤 BUILD MORSE
+
   const buildSequence = () => {
     let seq = [];
 
@@ -109,7 +109,6 @@ export default function App() {
     return seq;
   };
 
-  // ▶️ PLAY
   const play = async () => {
     stopRef.current = false;
     setPlaying(true);
@@ -127,7 +126,7 @@ export default function App() {
         setCurrentCharIndex(item.charIndex);
       }
 
-      // 🔄 AUTO SCROLL
+  
       setTimeout(() => {
         scrollRef.current?.children[i]?.scrollIntoView({
           behavior: "smooth",
@@ -161,7 +160,7 @@ export default function App() {
     setActiveIndex(-1);
   };
 
-  // 🛑 STOP
+
   const stop = async () => {
     stopRef.current = true;
     await torch(false);
