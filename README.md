@@ -75,8 +75,7 @@ Processed output and sensor information are displayed on the 16x2 LCD display co
 #  Web App
 
 https://xg2v9v.csb.app/
-!(https://cdn.hackclub.com/019e3fe5-b729-72b8-9719-18a252371a2e/Screenshot%202026-05-18%20183518.png)
-
+[Screenshot 2026-05-18 183518.png](https://cdn.hackclub.com/019e3fe5-b729-72b8-9719-18a252371a2e/Screenshot%202026-05-18%20183518.png)
 ---
 
 # Repository Structure
