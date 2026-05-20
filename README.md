@@ -80,10 +80,12 @@ Processed output and sensor information are displayed on the 16x2 LCD display co
 ```text
 lightlink-lifi/
 │
+├── docs/
+├── electronics/
 ├── firmware/
 ├── webapp/
-├── electronics/
-├── docs/
+├── .gitinore
+├── LICENSE
 └── README.md
 ```
 
