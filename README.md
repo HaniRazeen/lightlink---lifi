@@ -8,11 +8,6 @@ Li-Fi communication system using an ESP32, LDR sensor, 16x2 LCD display, and a c
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/1a394348-ef27-45c1-858f-c62175c260dc" />
 
-
-![LCD Output](media/lcd-demo.jpg)
-
-![Web App](media/webapp.png)
-
 ---
 
 # Features
@@ -75,6 +70,8 @@ Processed output and sensor information are displayed on the 16x2 LCD display co
 #  Web App
 
 https://xg2v9v.csb.app/
+
+<img width="416" height="510" alt="image" src="https://github.com/user-attachments/assets/e93d5f0f-4c32-403e-96ba-0c76995e7880" />
 
 ---
 
