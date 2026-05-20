@@ -6,7 +6,7 @@ Li-Fi communication system using an ESP32, LDR sensor, 16x2 LCD display, and a c
 
 # Project Preview
 
-![<img width="1600" height="1233" alt="image" src="https://github.com/user-attachments/assets/1a394348-ef27-45c1-858f-c62175c260dc" />
+<img width="1600" height="1233" alt="image" src="https://github.com/user-attachments/assets/1a394348-ef27-45c1-858f-c62175c260dc" />
 
 
 ![LCD Output](media/lcd-demo.jpg)
