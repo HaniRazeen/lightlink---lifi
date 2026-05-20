@@ -69,7 +69,7 @@ Processed output and sensor information are displayed on the 16x2 LCD display co
 
 #  Web App
 
-https://xg2v9v.csb.app/
+# https://xg2v9v.csb.app/
 
 <img width="416" height="510" alt="image" src="https://github.com/user-attachments/assets/e93d5f0f-4c32-403e-96ba-0c76995e7880" />
 
