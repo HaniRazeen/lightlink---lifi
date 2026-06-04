@@ -18,7 +18,6 @@ By typing a message into a custom React web app, the app translates the text int
 * **Analog Light Tracking:** Uses an LDR sensor to monitor shifting light levels and catch transmission peaks.
 * **Live LCD Feed:** Decoded characters are pushed instantly to a 16x2 LCD screen so you can read messages live.
 * **Web-Based Transmitter:** A custom React dashboard built to turn any modern smartphone, tablet, or laptop into a light transmitter.
-* **Fine-Tuned Timing Controls:** Includes a settings panel to adjust WPM (Words Per Minute) and pulse durations so you can get a stable connection regardless of your room's ambient lighting.
 * **Haptic & Visual Cues:** The app UI pulses in sync with the light bursts and uses mobile phone vibrations to let you "feel" the data stream.
 
 ---
